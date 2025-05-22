@@ -9,12 +9,15 @@
 José Enderson Ferreira Rodrigues   
 jose.rodrigues@pg.inatel.br, jose.e.f.rodrigues.br@gmail.com
 
-### Implementações atuais: 
+## Implementação
+Gestor de Projetos e Tarefas: sistema que permite criar várias tarefas e alocar vários empregados com suas respectivas tarefas. 
+
+### Funcionalidades novas: 
 * **EndPoints de Identity (Autenticação) com requisição de Autorização**
 * **Método de Logout na API**
 * **Adição de método que lista os Empregados vinculados a um projeto**
 
-### Implementações anteriores: 
+### Funcionalidades anteriores: 
 * Programa console do projeto
 * Integração com ORM Entity Framework
 * Classes Context e DAL de Shared.Data
@@ -43,8 +46,6 @@ https://github.com/joseefrodriguesbr/GestorProjetosTarefas_Final
 
 <img style="margin-right: 30px" src="https://github.com/joseefrodriguesbr/GestorProjetosTarefas_Final/blob/master/Class%20Diagram.jpg" width="600px;" alt="Avatar"/><br>
 
-## Implementação
-Gestor de Projetos e Tarefas: sistema que permite criar várias tarefas e alocar vários empregados com suas respectivas tarefas. 
 
 ### IDE
 - **Microsoft Visual Studio Community 2022 (64 bits) - 17.13.6**
