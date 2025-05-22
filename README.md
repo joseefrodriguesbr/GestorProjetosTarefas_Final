@@ -3,7 +3,7 @@
 # Pós-Graduação em Desenvolvimento Mobile e Cloud Computing – Inatel
 ## DM106 - Desenvolvimento de Web Services com segurança sob plataforma .NET
 
-## Trabalho Aula Final
+## Trabalho Final
 
 ### Autor: 
 José Enderson Ferreira Rodrigues   
