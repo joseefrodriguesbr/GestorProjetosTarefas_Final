@@ -3,7 +3,7 @@
 # Pós-Graduação em Desenvolvimento Mobile e Cloud Computing – Inatel
 ## DM106 - Desenvolvimento de Web Services com segurança sob plataforma .NET
 
-## Trabalho Aula 4.2
+## Trabalho Aula Final
 
 ### Autor: 
 José Enderson Ferreira Rodrigues   
@@ -16,11 +16,11 @@ jose.rodrigues@pg.inatel.br, jose.e.f.rodrigues.br@gmail.com
 * Criação do método de Logout
 
 ### Documentação: 
-https://github.com/joseefrodriguesbr/GestorProjetosTarefas_Aula_3_2
+https://github.com/joseefrodriguesbr/GestorProjetosTarefas_Final
 
 ## Diagrama de classes
 
-<img style="margin-right: 30px" src="https://github.com/joseefrodriguesbr/GestorProjetosTarefas_Aula_4_2/blob/master/Class%20Diagram.jpg" width="600px;" alt="Avatar"/><br>
+<img style="margin-right: 30px" src="https://github.com/joseefrodriguesbr/GestorProjetosTarefas_Final/blob/master/Class%20Diagram.jpg" width="600px;" alt="Avatar"/><br>
 
 ## Implementação
 Gestor de Projetos e Tarefas: sistema que permite criar várias tarefas e alocar vários empregados com suas respectivas tarefas. 
