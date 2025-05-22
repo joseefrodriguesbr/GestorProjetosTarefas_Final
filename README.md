@@ -9,11 +9,32 @@
 José Enderson Ferreira Rodrigues   
 jose.rodrigues@pg.inatel.br, jose.e.f.rodrigues.br@gmail.com
 
-### Atividade proposta: 
+### Implementações atuais: 
+* **EndPoints de Identity (Autenticação) com requisição de Autorização**
+* **Método de Logout na API**
+* **Adição de método que lista os Empregados vinculados a um projeto**
 
-* Adição da classe N:N
-* Criação dos EndPoints de Identity (Autenticação) com requisição de Autorização
-* Criação do método de Logout
+### Implementações anteriores: 
+* Programa console do projeto
+* Integração com ORM Entity Framework
+* Classes Context e DAL de Shared.Data
+* Implementação de DAL genérica
+* Implementação de banco com Migrations
+* Implementação da relação entre as classes (1:N) e (N:N) utilizando Migrations e Proxies
+* Implementação e teste do método GET na API
+* API completa com EndPoints utilizando DI.
+* Documentação com Swagger.
+* Configuração dos DTOs para as requests e responses da API
+
+### Migrations disponíveis: 
+* **FirsMigration** : criação das tabelas Empregado e Tarefa
+* **InitialDataEntry** : geração de dados para a tabela Empregado
+* **RelateEmpregadoTarefa** : inclusão de chaves ligando as tabelas Empregado e Tarefa (relação 1:N)
+* **TarefaDataEntry** : geração de dados para a tabela Tarefa
+* **RelateEmpregadoProjeto** : criação das tabelas Projeto e Empregado (relação N:N) com respectivas chaves de ligação 
+* **IdentityTables** : criação de tabelas que suportarão a autenticação do endpoint
+* **ProjetoDataEntry** : geração de dados para a tabela Projeto
+* **EmpregadoProjetoDataEntry** : geração de dados para a tabela EmpregadoProjeto
 
 ### Documentação: 
 https://github.com/joseefrodriguesbr/GestorProjetosTarefas_Final
