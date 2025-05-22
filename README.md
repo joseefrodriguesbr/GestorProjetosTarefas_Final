@@ -10,7 +10,7 @@ José Enderson Ferreira Rodrigues
 jose.rodrigues@pg.inatel.br, jose.e.f.rodrigues.br@gmail.com
 
 ## Implementação
-Gestor de Projetos e Tarefas: sistema que permite criar várias tarefas e alocar vários empregados com suas respectivas tarefas. 
+Gestor de Projetos e Tarefas: sistema que permite criar vários Projetos e alocar vários Empregados com suas respectivas Tarefas. 
 
 ### Funcionalidades novas: 
 * **EndPoints de Identity (Autenticação) com requisição de Autorização**
