@@ -15,8 +15,6 @@ namespace GestorProjetosTarefas.Shared.Data.BD
         //    this.context = new GestorProjetosTarefasContext();
         //}
                 
-
-
         public DAL(GestorProjetosTarefasContext context) // ← Agora recebe por injeção
         {
             this.context = context;
