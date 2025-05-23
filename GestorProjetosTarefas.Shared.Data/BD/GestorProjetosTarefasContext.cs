@@ -19,14 +19,11 @@ namespace GestorProjetosTarefas.Shared.Data.BD
 
         public DbSet<Projeto> Projeto { get; set; }
 
+        //Conexão Local 
         private string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=GestorProjetosTarefas_BD_V1;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False";
 
-        /*
-        public SqlConnection Connect()
-        {
-            return new SqlConnection(connectionString);
-        }
-        */
+        //Conexão Azure
+        //private string connectionString = "Server=tcp:gestorprojetostarefasserver.database.windows.net,1433;Initial Catalog=GestorProjetosTarefas_BD_V1;Persist Security Info=False;User ID=jose.rodrigues;Password=GestorProjetosTarefas.123456;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

@@ -10,6 +10,7 @@ namespace GestorProjetosTarefas.Shared.Data.BD
      {
         private readonly GestorProjetosTarefasContext context;
         
+        // O construtor sem parâmetros tem anomalia de sempre tentar criar um novo registro em projeto, durante a criação de um empregado, mesmo se o projeto já existir.
         //public DAL()
         //{
         //    this.context = new GestorProjetosTarefasContext();
