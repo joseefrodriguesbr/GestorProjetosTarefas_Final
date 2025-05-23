@@ -46,6 +46,16 @@ https://github.com/joseefrodriguesbr/GestorProjetosTarefas_Final
 
 <img style="margin-right: 30px" src="https://github.com/joseefrodriguesbr/GestorProjetosTarefas_Final/blob/master/Class%20Diagram.jpg" width="600px;" alt="Avatar"/><br>
 
+## Projetos relacionados
+* https://github.com/joseefrodriguesbr/GestorProjetosTarefas_Aula_1_2
+
+* https://github.com/joseefrodriguesbr/GestorProjetosTarefas_Aula_2_4
+
+* https://github.com/joseefrodriguesbr/GestorProjetosTarefas_Aula_3_2
+
+* https://github.com/joseefrodriguesbr/GestorProjetosTarefas_Aula_4_2
+
+* https://github.com/joseefrodriguesbr/GestorProjetosTarefas_Final
 
 ### IDE
 - **Microsoft Visual Studio Community 2022 (64 bits) - 17.13.6**
